@@ -1,7 +1,7 @@
 @font-face {
     font-family: "Meslo LG M Regular Nerd Font Complete";
     src: local("Meslo LG M Regular Nerd Font Complete"),
-         url(fonts/MesloLGMRegularNerdFontComplete.woff2) format("woff2");
+         url(fonts/MesloLGMNerdFontComplete-Regular.woff2) format("woff2");
 }
 
 @font-face {
